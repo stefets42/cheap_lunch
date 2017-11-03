@@ -1,2 +1,2 @@
-# Nearby Restaurant Finder
-Find cheap restaurants around your office area : simply draw an area on a map to search restaurants within it!
+# Find delicious 10€ lunch around your office!
+Draw an area around your office on the map and you'll be suggested cheap and delicious restaurants within it.
