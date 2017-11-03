@@ -1,2 +1,2 @@
-# Find a cheap and yummy restaurant for lunch close to your office
-Simply draw a shape an a map to search restaurants within it!
+# Nearby Restaurant Finder
+Find cheap restaurants around your office area : simply draw an area an a map to search restaurants within it!
