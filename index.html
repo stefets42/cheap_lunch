@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Nearby Restaurant Finder</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="box-1">
+        <h1>Find a delicious 10€ lunch around your office!</h1>
+        <p>Draw an area around your office on the map and you'll be suggested cheap and delicious restaurants within it.</p>
+          <input id="toggle-drawing" type="button" value="Click to draw your area">
+      </div>
+      <div class="box-2" id="map"></div>
+    </div>
+
+    <script src="js/script.js"></script>
+    <script async defer
+        src=
+        "https://maps.googleapis.com/maps/api/js?libraries=geometry,drawing&key=AIzaSyBe_xFYNB-QNIpzc-_v6_J4h65sAVHPdzg&v=3&callback=initMap">
+    </script>
+
+  </body>
+</html>

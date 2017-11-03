@@ -1,0 +1,45 @@
+html,
+      body {
+        font-family: Arial, sans-serif;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        color: #525454;
+        font-size: 14px;
+        margin: 0 0 10px 10px;
+        text-align: center;
+        line-height: 33px;
+      }
+
+      h1 {
+        color: #6bc6b0;
+        font-size: 18px;
+        margin: 0 0 10px 10px;
+        text-align: center;
+      }
+
+      .box-1 {
+        padding: 10px 10px 10px 10px;
+        width: 100%;
+        order: 1;
+      }
+
+      .box-2 {
+        bottom: 0px;
+        height: 75%;
+        left: 0px;
+        position: absolute;
+        right: 0px;
+        order: 2;
+      }
+
+      #toggle-drawing {
+        position: relative;
+        background-color: #6bc6b0;
+        opacity: 0.6;
+        color: white;
+        padding: 16px;
+        font-size: 14px;
+        border: none;
+        cursor: pointer;
+      }
